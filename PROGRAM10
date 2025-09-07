@@ -8,3 +8,5 @@ int main() {
 
     printf("Pre-increment ++x = %d\n", ++x);
     printf("After pre-increment, x = %d\n", x);
+return 0 ;
+}
