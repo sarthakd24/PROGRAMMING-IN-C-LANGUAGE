@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() {
+  
+    printf("54 Nehru Collony\n");
+    printf("Dalanwala\n");
+    printf("Dehradun\n");
+    return 0;
+}
