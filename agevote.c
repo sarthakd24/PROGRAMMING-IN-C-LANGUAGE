@@ -12,4 +12,5 @@ int main() {
     else {
         printf("invalid age");
     }
+return 0;
 }
